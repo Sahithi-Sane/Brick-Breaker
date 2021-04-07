@@ -16,8 +16,6 @@ Playing to our Brick Breaker is really simple:
 
 ## How to create/edit levels?
 
-<p align="center"><img src="README-images/editor.png"></p>
-
 Creating and editing levels is also an easy task:
 
 1. Execute `python editor.py`
