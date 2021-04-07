@@ -1,14 +1,12 @@
 # Python Brick Breaker
 
-This project is a simple and funny Brick Breaker with an easy level-editor, written in Python and created by 2 French students [Lucas Willems](http://www.lucaswillems.com) and Aymeric Lhullier for their ISN (Initiation aux Sciences du Numérique) project.
+This project is a simple Brick Breaker game with an easy multi-levels, written in Python.
 
 ## Requirements
 
 - Python 3
 
 ## How to play?
-
-<p align="center"><img src="README-images/game.png"></p>
 
 Playing to our Brick Breaker is really simple:
 
